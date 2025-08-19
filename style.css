@@ -904,9 +904,9 @@ body {
         line-height: 1.2;
     }
 
-    .hero-person {
-        width: 260px;
-        height: 340px;
+    .hero-person, .consultant-image {
+        width: 6000px;
+        height: 600px;
         margin: 0 auto;
         backdrop-filter: blur(20px) saturate(160%);
         box-shadow: 0 18px 30px rgba(0,0,0,0.12),
