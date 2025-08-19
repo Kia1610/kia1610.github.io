@@ -184,8 +184,8 @@ body {
 }
 
 .hero-person {
-    width: 400px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     border-radius: 20px;
     display: flex;
     align-items: center;
@@ -688,8 +688,8 @@ body {
 }
 
 .consultant-image {
-    width: 400px;
-    height: 500px;
+    width: 600px;
+    height: 650px;
     border-radius: 20px;
     margin: 0 auto;
     display: flex;
@@ -1225,6 +1225,7 @@ body {
         text-shadow: 0 0 20px rgba(139, 92, 246, 0.8);
     }
 }
+
 
 
 
