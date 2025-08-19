@@ -184,8 +184,8 @@ body {
 }
 
 .hero-person {
-    width: 600px;
-    height: 600px;
+    width: 700px;
+    height: 700px;
     border-radius: 20px;
     display: flex;
     align-items: center;
@@ -1225,6 +1225,7 @@ body {
         text-shadow: 0 0 20px rgba(139, 92, 246, 0.8);
     }
 }
+
 
 
 
