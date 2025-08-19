@@ -856,6 +856,19 @@ body {
     .hero-content {
         gap: 2.5rem;
     }
+    .hero-person {
+        width: 400px;
+        height: 400px;
+        margin: 0 auto;
+        backdrop-filter: blur(20px) saturate(160%);
+        box-shadow: 0 18px 30px rgba(0,0,0,0.12),
+                    inset 0 1px 0 rgba(255,255,255,0.08);
+    }
+
+     .consultant-image {
+        width: 350px;
+        height: 400px;
+    }
 }
 
 
