@@ -43,7 +43,7 @@ body {
 
 /* Header Styles */
 .header {
-    position: sticky;
+    position: fixed;
     top: 0;
     left: 0;
     width: 100%;
@@ -1225,3 +1225,4 @@ body {
         text-shadow: 0 0 20px rgba(139, 92, 246, 0.8);
     }
 }
+
