@@ -1013,7 +1013,21 @@ body {
 
     .faq-answer {
         padding: 0 1.2rem 1.2rem;
+    } 
+    .hero-person {
+        width: 400px;
+        height: 400px;
+        margin: 0 auto;
+        backdrop-filter: blur(20px) saturate(160%);
+        box-shadow: 0 18px 30px rgba(0,0,0,0.12),
+                    inset 0 1px 0 rgba(255,255,255,0.08);
     }
+
+     .consultant-image {
+        width: 350px;
+        height: 400px;
+    }
+    
 }
 @media (max-width: 480px) {
     .hero-text h1 {
@@ -1084,13 +1098,13 @@ body {
     }
 
     .hero-person {
-        width: 180px;
-        height: 230px;
+        width: 350px;
+        height: 400px;
     }
 
     .consultant-image {
-        width: 160px;
-        height: 200px;
+        width: 350px;
+        height: 300px;
     }
 }
 
